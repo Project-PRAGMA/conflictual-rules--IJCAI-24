@@ -22,8 +22,13 @@ competition](https://preflib.simonrey.fr/dataset/00006) datasets come from
 
 # Acknowledgments
 
-This project is part of the [PRAGMA project](https://home.agh.edu.pl/~pragma/)
+The project is part of the [PRAGMA project](https://home.agh.edu.pl/~pragma/)
 which has received funding from the [European Research Council
 (ERC)](https://home.agh.edu.pl/~pragma/) under the European Union’s Horizon 2020
 research and innovation programme ([grant agreement No
-101002854](https://erc.easme-web.eu/?p=101002854)).
+101002854](https://erc.easme-web.eu/?p=101002854)). The project has also received
+funding from the French government under management of [Agence Nationale de la
+Recherche](https://anr.fr/) as part of the "Investissements d'avenir" program,
+reference
+[ANR-19-P3IA-0001](https://anr.fr/en/funded-projects-and-impact/funded-projects/project/funded/invest/5d06f90dd9315c16cccf637ded25638e/?tx_anrprojects_funded%5Bcontroller%5D=Funded&cHash=3e75faf6b66a90289c9c5a4d6a546f7c)
+([PRAIRIE 3IA Institute](https://prairie-institute.fr/)).
