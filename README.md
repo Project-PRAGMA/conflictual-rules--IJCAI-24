@@ -31,4 +31,6 @@ funding from the French government under management of [Agence Nationale de la
 Recherche](https://anr.fr/) as part of the "Investissements d'avenir" program,
 reference
 [ANR-19-P3IA-0001](https://anr.fr/en/funded-projects-and-impact/funded-projects/project/funded/invest/5d06f90dd9315c16cccf637ded25638e/?tx_anrprojects_funded%5Bcontroller%5D=Funded&cHash=3e75faf6b66a90289c9c5a4d6a546f7c)
-([PRAIRIE 3IA Institute](https://prairie-institute.fr/)).
+([PRAIRIE 3IA Institute](https://prairie-institute.fr/)). The research presented
+in this paper has also been supported in part from the funds assigned by Polish
+Ministry of Science and Technology to [AGH University](https://www.agh.edu.pl/en/).
