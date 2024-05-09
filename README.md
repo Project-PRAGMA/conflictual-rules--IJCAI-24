@@ -4,18 +4,19 @@ Pair of Candidates" by [Théo Delemazure](https://theo.delemazure.fr), Łukasz
 Janeczko, [Andrzej Kaczmarczyk](https://akaczmarczyk.com), and [Stanisław
 Szufa](https://szufa.simple.ink).
 
+The files contain:
+ - jupyter notebooks with the code used to generate the figures
+ - the python package we implemented, in directory `cvrpy`
+ - the datasets we used, in directory `datasets` 
+ - raw data of our experiments, in directory `data_out`
 
-The _cvrpy_ directory contains the python package we implemented, while the
-notebooks contains the code used to generate the figures. We also provide the
-datasets we used as well as raw data of our experiments.
-
-> ❗ No data was collected in the course of this project. All our datasets come
-from external sources. Namely, the French presidential election data come from
+> ❗ No data was collected in the course of this project. All used datasets come
+from external sources. Namely, the French presidential election data comes from
 the [Voter autrement 2017 - online
-experimen](https://zenodo.org/records/1199545) and [Voter autrement 2022 -
-online experimen](https://zenodo.org/records/10998451), while the
+experiment](https://zenodo.org/records/1199545) and the [Voter autrement 2022 -
+online experiment](https://zenodo.org/records/10998451), while the
 [sushi](https://preflib.simonrey.fr/dataset/00014) and [skating
-competition](https://preflib.simonrey.fr/dataset/00006) data comes from
+competition](https://preflib.simonrey.fr/dataset/00006) datasets come from
 [Preflib](https://preflib.simonrey.fr).
 
 
